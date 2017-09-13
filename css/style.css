@@ -1,0 +1,24 @@
+/* global style */
+body {
+	font-family: "Lato", sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+}
+
+header {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 15px;
+}
+.text-muted {
+	color: #7d97ad;
+}
+
+/*lighter text*/
+.text-thin {
+	font-weight: 100;
+}
+
+
+.title-super {
+	font-size: 60px;
+}
